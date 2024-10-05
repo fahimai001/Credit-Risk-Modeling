@@ -1,1 +1,2 @@
 # Credit-Risk-Modeling
+This project focuses on building a predictive model to assess the likelihood of loan default and measure credit risk. It utilizes machine learning algorithms to analyze borrower data, including financial history, income, and demographic details, to estimate the probability of default. The model helps financial institutions make data-driven decisions in lending, manage risk effectively, and optimize credit policies.
